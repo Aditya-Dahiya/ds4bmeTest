@@ -7,7 +7,10 @@
 - I am populating this webpage with a demonstration of writing some basic code chunk in R-markdown as shown below:---
 
 ```{r chunk1, echo=TRUE}
-2+2
-x <- rnorm(100)
-plot(x)
+2+2  
+
+x <- rnorm(100)  
+
+plot(x)  
+
 ```
